@@ -26,7 +26,7 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] What is React JS and what problems does it try and solve? Support your answer with concepts introduced in class and from your personal research on the web.
 
-React is a library built with Javascript that is meant to make UI design more convenient. It creates a reactive way to interface with the user, with its state-based component behavior. This lets components re-render according to the devs needs to accomplish a variety of different effects.
+React is a library built with Javascript that is meant to make UI design more convenient. It creates a reactive way to interface with the user, with its state-based component behavior. This lets components re-render according to the devs needs to accomplish a variety of different effects in response to user inputs.
 
 - [ ] What does it mean to _think_ in react?
 
